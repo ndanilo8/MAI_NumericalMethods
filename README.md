@@ -1,4 +1,4 @@
-# Numerical Methods Repository
+# Numerical Methods
 
 This repository contains practical tasks and implementations related to the subject of Numerical Methods. The provided code and documentation aim to demonstrate the application of numerical algorithms to solve various mathematical problems.
 
