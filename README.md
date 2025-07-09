@@ -43,22 +43,6 @@ The repository includes the following numerical methods tasks:
 10. **NUMERICAL INTEGRATION**
    - _“Numerical integration”_ and _“Pyramid of refinements”_
 
-## Folder Structure
-
-The repository is organized as follows:
-
-- **1/**: Contains code and documentation for Task 1.
-- **2/**: Contains code and documentation for Task 2.
-- **3/**: Contains code and documentation for Task 3.
-- **4/**: Contains code and documentation for Task 4.
-- **5/**: Contains code and documentation for Task 5.
-- **6/**: Contains code and documentation for Task 6.
-- **7/**: Contains code and documentation for Task 7.
-- **8/**: Contains code and documentation for Task 8.
-- **9/**: Contains code and documentation for Task 9.
-- **10/**: Contains code and documentation for Task 10.
-
-
 ## Usage
 
 To use the code in this repository, follow the instructions bellow
@@ -69,10 +53,3 @@ cd 1/
 g++ 1.cpp
 ./a.out
 ```
-## Contributing
-
-Contributions are welcome! If you find any issues or have improvements to suggest, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License.
