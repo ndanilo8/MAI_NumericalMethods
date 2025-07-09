@@ -8,10 +8,7 @@ This repository contains practical tasks and implementations related to the subj
 
 1. [Introduction](#introduction)
 2. [Tasks](#tasks)
-3. [Folder Structure](#folder-structure)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Introduction
 
